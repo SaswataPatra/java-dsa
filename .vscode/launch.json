@@ -1,0 +1,678 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "twinprime",
+            "request": "launch",
+            "mainClass": "Normal.twinprime",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch pair",
+            "request": "launch",
+            "mainClass": "Stck.pair",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ngl",
+            "request": "launch",
+            "mainClass": "Stck.ngl",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ngr",
+            "request": "launch",
+            "mainClass": "Stck.ngr",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementStack",
+            "request": "launch",
+            "mainClass": "Stck.implementStack",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSortPart1",
+            "request": "launch",
+            "mainClass": "Normal.QuickSortPart1",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch deepnashu",
+            "request": "launch",
+            "mainClass": "Normal.deepnashu",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch abstrct",
+            "request": "launch",
+            "mainClass": "Normal.abstrct",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch camelCase",
+            "request": "launch",
+            "mainClass": "Normal.camelCase",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitset",
+            "request": "launch",
+            "mainClass": "Normal.Bitset",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "Normal.HelloWorld",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rat",
+            "request": "launch",
+            "mainClass": "recursion.Rat",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputs",
+            "request": "launch",
+            "mainClass": "Normal.inputs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch combinations",
+            "request": "launch",
+            "mainClass": "recursion.combinations",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsets1",
+            "request": "launch",
+            "mainClass": "recursion.subsets1",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseArray",
+            "request": "launch",
+            "mainClass": "recursion.reverseArray",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertSort",
+            "request": "launch",
+            "mainClass": "recursion.insertSort",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch jobathon",
+            "request": "launch",
+            "mainClass": "Normal.jobathon",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IBH",
+            "request": "launch",
+            "mainClass": "recursion.IBH",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch printLCsubstring",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.printLCsubstring",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch printLPS",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.printLPS",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch builderBuffer",
+            "request": "launch",
+            "mainClass": "Normal.builderBuffer",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch fileHandling",
+            "request": "launch",
+            "mainClass": "Normal.fileHandling",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch len",
+            "request": "launch",
+            "mainClass": "Normal.len",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day1",
+            "request": "launch",
+            "mainClass": "Normal.Day1",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch leetcode120",
+            "request": "launch",
+            "mainClass": "Normal.leetcode120",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codenation3",
+            "request": "launch",
+            "mainClass": "Normal.Codenation3",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordSearch",
+            "request": "launch",
+            "mainClass": "Graphs.wordSearch",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch surroundedRegions",
+            "request": "launch",
+            "mainClass": "Graphs.surroundedRegions",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch dfs",
+            "request": "launch",
+            "mainClass": "Graphs.dfs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bfs",
+            "request": "launch",
+            "mainClass": "Graphs.bfs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingLCS",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.PrintingLCS",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasCycle",
+            "request": "launch",
+            "mainClass": "LinkedLists.HasCycle",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch empty",
+            "request": "launch",
+            "mainClass": "Normal.empty",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestCommonSubsequence",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.LongestCommonSubsequence",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSubsetDiff",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.CountSubsetDiff",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShortestUnsortedArray",
+            "request": "launch",
+            "mainClass": "Normal.ShortestUnsortedArray",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinDiff",
+            "request": "launch",
+            "mainClass": "DP.MinDiff",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber1",
+            "request": "launch",
+            "mainClass": "HouseRobber1",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SummaryRanges",
+            "request": "launch",
+            "mainClass": "SummaryRanges",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Superuse",
+            "request": "launch",
+            "mainClass": "abdulBari.Superuse",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloodFill",
+            "request": "launch",
+            "mainClass": "Graphs.FloodFill",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "SearchSort.BinarySearch",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChangeMin",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.CoinChangeMin",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSubset",
+            "request": "launch",
+            "mainClass": "CountSubset",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOfSubsets",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.CountOfSubsets",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Strings.Anagram",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumbers",
+            "request": "launch",
+            "mainClass": "Normal.MissingNumbers",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.CoinChange",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxLengthProd",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.MaxLengthProd",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NTribo",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.NTribo",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ransomeNote",
+            "request": "launch",
+            "mainClass": "Strings.ransomeNote",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedBinary",
+            "request": "launch",
+            "mainClass": "DP.BalancedBinary",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataHiding",
+            "request": "launch",
+            "mainClass": "abdulBari.DataHiding",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataHiding",
+            "request": "launch",
+            "mainClass": "DataHiding",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertTree",
+            "request": "launch",
+            "mainClass": "trees.InvertTree",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProduct",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.MaxProduct",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxCircular",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.MaxCircular",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidPalin",
+            "request": "launch",
+            "mainClass": "Strings.ValidPalin",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TopView",
+            "request": "launch",
+            "mainClass": "trees.TopView",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightView",
+            "request": "launch",
+            "mainClass": "trees.RightView",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortArrayParity",
+            "request": "launch",
+            "mainClass": "SortArrayParity",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDigitMax",
+            "request": "launch",
+            "mainClass": "removeDigitMax",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftSideView",
+            "request": "launch",
+            "mainClass": "trees.LeftSideView",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BackspaceString",
+            "request": "launch",
+            "mainClass": "Strings.BackspaceString",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree",
+            "request": "launch",
+            "mainClass": "trees.BinaryTree",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch levelOrder",
+            "request": "launch",
+            "mainClass": "trees.levelOrder",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryTree",
+            "request": "launch",
+            "mainClass": "trees.binaryTree",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch tree",
+            "request": "launch",
+            "mainClass": "trees.tree",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_n_Earn",
+            "request": "launch",
+            "mainClass": "Delete_n_Earn",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber2",
+            "request": "launch",
+            "mainClass": "HouseRobber2",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinCostClimbingStairs",
+            "request": "launch",
+            "mainClass": "MinCostClimbingStairs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tribonacci",
+            "request": "launch",
+            "mainClass": "Tribonacci",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch climbing_stairs",
+            "request": "launch",
+            "mainClass": "climbing_stairs",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch kadanes",
+            "request": "launch",
+            "mainClass": "kadanes",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PossibleMaxSubArray",
+            "request": "launch",
+            "mainClass": "PossibleMaxSubArray",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch knap_tab_prac",
+            "request": "launch",
+            "mainClass": "knap_tab_prac",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch knap_prac",
+            "request": "launch",
+            "mainClass": "knap_prac",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RmvDuplicates",
+            "request": "launch",
+            "mainClass": "RmvDuplicates",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascalsT",
+            "request": "launch",
+            "mainClass": "pascalsT",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqSortedArr",
+            "request": "launch",
+            "mainClass": "SqSortedArr",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PivotIndex",
+            "request": "launch",
+            "mainClass": "PivotIndex",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunningSum",
+            "request": "launch",
+            "mainClass": "RunningSum",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rittik",
+            "request": "launch",
+            "mainClass": "Rittik",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "name": "(lldb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
+        }
+    ]
+}
