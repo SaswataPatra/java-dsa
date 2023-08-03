@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "recursion.palindrome",
+            "projectName": "Java_9b77dbc5"
+        },
+        {
+            "type": "java",
             "name": "reverseString",
             "request": "launch",
             "mainClass": "recursion.reverseString",
